@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('renders the app title', () => {
+    render(<App />);
+    const titleElement = screen.getByRole('heading', { name: /ask_hercules AI Query Assistant/i }); // Use getByRole
+    expect(titleElement).toBeInTheDocument();
 });

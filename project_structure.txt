@@ -1,0 +1,23 @@
+# TestZeus Sample Full Stack Application
+
+## Project Structure
+```
+ask-hercules-app/
+│
+├── backend/                # Python Backend
+│   ├── app.py              # Flask Application
+│   ├── requirements.txt    # Python Dependencies
+│   └── services/
+│       └── ai_service.py   # AI Integration
+│
+├── frontend/               # React Frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── services/
+│   │   └── App.js
+│   ├── package.json
+│   └── README.md
+│
+└── README.md
+```

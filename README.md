@@ -1,8 +1,8 @@
-# TestZeus AI Query Assistant
+# Ask_Hercules AI Query Assistant
 
 ## 🚀 Project Overview
 
-TestZeus AI Query Assistant is a full-stack web application that leverages AI to provide intelligent responses to user queries. Built as a demonstration of Python full-stack engineering skills, this project showcases modern web development and AI integration techniques.
+Ask_Hercules AI Query Assistant is a full-stack web application that leverages AI to provide intelligent responses to user queries. Built as a demonstration of Python full-stack engineering skills, this project showcases modern web development and AI integration techniques.
 
 ![Project Banner](path/to/banner-image.png)
 
@@ -125,13 +125,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🌍 Contact
 
-Your Name - youremail@example.com
+Your Name - muzammilibrahim13@gmail.com
 
-Project Link: [https://github.com/yourusername/testzeus-hercules-demo](https://github.com/yourusername/testzeus-hercules-demo)
+Project Link: [https://github.com/muzammil-13/ask_hercules-app](https://github.com/muzammil-13/ask_hercules-app)
 
 ## 🙌 Acknowledgements
 
 - [Anthropic](https://www.anthropic.com)
 - [OpenAI](https://openai.com)
 - [Langchain](https://www.langchain.com)
-- TestZeus for the inspiration
+- [TestZeus](https://www.linkedin.com/company/test-zeus/) for the inspiration
